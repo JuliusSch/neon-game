@@ -11,4 +11,4 @@
 
 ## Demo
 
-demo/screenshot_1.png
+!demo/screenshot_1.png
