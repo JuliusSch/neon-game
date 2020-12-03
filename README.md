@@ -11,4 +11,4 @@
 
 ## Demo
 
-!demo/screenshot_1.png
+https://github.com/JuliusSch/neon-game/tree/master/demo/screenshot_1
