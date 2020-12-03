@@ -11,4 +11,6 @@
 
 ## Demo
 
-https://github.com/JuliusSch/neon-game/tree/master/demo/screenshot_1.png
+![Screenshot taken ~ ~ ~](demo/screenshot_1.png)
+
+![Screenshot taken ~ ~ ~](demo/screenshot_2.png)
