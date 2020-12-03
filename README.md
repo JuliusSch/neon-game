@@ -11,3 +11,4 @@
 
 ## Demo
 
+demo/screenshot_1.png
